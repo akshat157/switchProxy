@@ -11,7 +11,7 @@ Made this primarily for different proxy settings in my college campus. You can m
 * Move the file to any of the paths in $PATH say `/usr/bin`
 * Open keyboard settings from unity launcher and create a keyboard shortcut like `Shift+Ctrl+Alt+P` with Command `switchProxy.sh` 
 
-That's it! You can now toggle between proxy settings with a simple keyboard shortcut> :)
+That's it! You can now toggle between proxy settings with a simple keyboard shortcut. :)
 
 Although this is supposed to be a basic script for someone new to shell scripting, contributions are always welcome!
 
